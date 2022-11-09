@@ -1,0 +1,19 @@
+body
+{
+    font-family: "Poppins", sans-serif;
+}
+
+.bg-gray
+{
+    background-color: rgb(238, 235, 235);
+}
+
+input:focus
+{
+    outline: none;
+}
+
+.display-none
+{
+    display: none;
+}
