@@ -13,6 +13,9 @@ The project is developed using the following technologies:
 - **JavaScript:** The core functionality, interactivity, and game logic are implemented using JavaScript.
 - **Bootstrap:** The Bootstrap framework is utilized to ensure a responsive and visually appealing user interface.
 
-![3](https://github.com/Elonsolmostafa1/Typing-Speed-Game/assets/62807830/26e80f50-3431-4530-b819-bd4a8e25bc25)
-![1](https://github.com/Elonsolmostafa1/Typing-Speed-Game/assets/62807830/0af48908-ad38-4733-a55b-80a9e99c09db)
-![2](https://github.com/Elonsolmostafa1/Typing-Speed-Game/assets/62807830/48aa4d85-716b-4321-98a2-49ab54999e25)
+
+![3](https://github.com/Elonsolmostafa1/Typing-Speed-Game/assets/62807830/c8196d5b-d054-4d67-827a-ae2ded334d4a)
+
+![1](https://github.com/Elonsolmostafa1/Typing-Speed-Game/assets/62807830/da4e2aea-13ac-4109-a2d7-594f787e941a)
+
+![2](https://github.com/Elonsolmostafa1/Typing-Speed-Game/assets/62807830/63fa5ca1-c013-4e3a-a36e-bc973badd1f7)
